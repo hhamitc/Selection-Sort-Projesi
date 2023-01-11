@@ -21,9 +21,10 @@ Her elemana tek tek bakıp bir azaltarak devam edeceğimiz için 1 den n'e kadar
 n*(n+1)/2 => ((n^2)+n)/2 => O(n^2)
  
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
-Average case: Aradığımız sayının ortada olması
-Worst case: Aradığımız sayının sonda olması
-Best case: Aradığımız sayının dizinin en başında olması.
+
+- Average case: Aradığımız sayının ortada olması
+- Worst case: Aradığımız sayının sonda olması
+- Best case: Aradığımız sayının dizinin en başında olması.
 
 Sıralandıktan sonra 18 ortanca eleman olduğu için Avarage Case kapsamına girer.
 
